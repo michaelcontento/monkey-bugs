@@ -3,6 +3,7 @@ Strict
 Private
 
 Import bono
+Import bugs.floattostringcasttest
 Import bugs.resizeemptyarraytest
 
 Public
