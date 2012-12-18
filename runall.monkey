@@ -5,6 +5,7 @@ Private
 Import bono
 Import bugs.floattostringcasttest
 Import bugs.resizeemptyarraytest
+Import bugs.wontcompileonandroidtest
 
 Public
 
